@@ -34,5 +34,5 @@ git push origin master
 
 ## Rules for making changes to this repository
 
-Choose any interview Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company.
+Choose any interview Coding question + Solution in any programming language you would like to contribute to , find its respective language folder and add the code to it. If the folder is not present , then create the folder with the name of the programming language.
 
