@@ -1,0 +1,27 @@
+HELP.md
+!**/src/main/**
+!**/src/test/**
+target/
+venv/
+
+### IntelliJ IDEA ###
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Jenv ###
+.java-version
+.DS_Store
