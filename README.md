@@ -36,11 +36,3 @@ git push origin master
 
 Choose any interview Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company.
 
-## Resources
-1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
-
-  * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-2. Git : Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
-  * [Videos to get started](https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)
-  * [Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
