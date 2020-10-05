@@ -1,10 +1,10 @@
-# company-wise-coding-question
-You can contribute to this repo by adding Coding Question with Solutions in any programming language
+# Interview-Questions
+You can contribute to this repo by adding Coding Questions with Solutions in any programming language
 
 # Hacktoberfest 2020
 ![img](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
-A repository where you can upload any coding question for any company in any language of your choice. Feel Free to add your code here :)
+A repository where you can upload any coding question with solutions in any language. Feel free to add your code here :)
 
 
 ## Steps to Contribute
@@ -34,7 +34,7 @@ git push origin master
 
 ## Rules for making changes to this repository
 
-Choose any Company's Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company.
+Choose any interview Coding question + Solution in any programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the Company.
 
 ## Resources
 1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
