@@ -29,4 +29,4 @@ public class SelectionSortExample {
             System.out.print(i+" ");
         }
     }
-}  
+}
